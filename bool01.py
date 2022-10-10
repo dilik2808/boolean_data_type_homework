@@ -7,9 +7,10 @@ def main(a,b):
     Returns:
         bool
     """
-    # Write your code here
-    return 
 
-print (7 != 7)
+    # Write your code here
+    return bool(a==b)
+
+print(main(7,9))
 
 
