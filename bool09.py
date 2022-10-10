@@ -6,6 +6,6 @@ def main(a):
         bool
     """
     # Write your code here
-    return (int)
+    return (a>0)
 
 print (main(12))
