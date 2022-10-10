@@ -7,7 +7,7 @@ def main(a):
         bool
     """
     # Write your code here
-    return math.sqrt(a)>=0
+    return (math.sqrt(a))%2
     
 
-print (main(4))
+print (main(16))
